@@ -26,7 +26,7 @@ public class ProductTest extends BaseTest {
         productPage.TumKitaplarHobi();
         productPage.randomElement();
         productPage.ListelerimFavorilerim();
-        productPage.Sepetim();
+ //       productPage.Sepetim();
     }
 
 }
